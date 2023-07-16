@@ -68,3 +68,7 @@ NTSTATUS RET102_SERVICE_REG_CALLBACK(
 	return STATUS_SUCCESS;
 }
 ```
+![image](https://github.com/Koi0x/stackspray-research/assets/95584654/01b12e6f-bef1-421a-aaca-e3f73cc3a1c9)
+
+![image](https://github.com/Koi0x/stackspray-research/assets/95584654/285a1107-437d-4c4f-929b-a11b890b8035)
+
